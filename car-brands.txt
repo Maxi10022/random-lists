@@ -344,6 +344,7 @@ FENIKSBUS
 Ferqui
 Ferrari
 Fiat
+Fiat Multipla
 Fisker
 Flint
 Flying Merkel
